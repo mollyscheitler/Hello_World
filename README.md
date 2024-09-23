@@ -1,6 +1,8 @@
 ### Hello_World
 *Initial Repository* 
 
+[LinkedIn](https://www.linkedin.com/in/molly-scheitler/)
+
 # Table of Contents 
 - **Project Title** 
 - **Description**
@@ -13,9 +15,9 @@
 ## Project Title 
 
 ## Description 
-- First branch
-- First pull request
-- First merge
+1. First branch
+2. First pull request
+3. First merge
   
 ## How to Run Program 
 
